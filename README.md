@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Tasneem Ibrahim</title>
+    <title>README - Tasneem Mosameh</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
     <style>
         body {
@@ -88,7 +88,7 @@
 <body>
     <div class="container">
         <!-- Header Image -->
-        <img class="header-image" src="https://capsule-render.vercel.app/api?type=waving&color=e1c3f3&height=300&section=header&text=Hi,%20It's%20Tasneem%20Ibrahim!%20%F0%9F%8D%80&fontSize=45&colorA=f2e4f9&colorB=f2e4f9&width=1000&fontColor=ffffff" alt="Header Image">
+        <img class="header-image" src="https://capsule-render.vercel.app/api?type=waving&color=e1c3f3&height=300&section=header&text=Hi,%20It's%20Tasneem%20Mosameh!%20%F0%9F%8D%80&fontSize=45&colorA=f2e4f9&colorB=f2e4f9&width=1000&fontColor=ffffff" alt="Header Image">
 
         <center><h2>Computer Systems Engineering</h2></center>
         <p>💻 Junior CSE student</p>
