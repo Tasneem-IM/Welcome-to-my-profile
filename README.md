@@ -4,7 +4,7 @@
    
 <div align="center">
     <h2 style="font-family: 'Poppins', sans-serif; color:#dd9dff;">Computer Systems Engineering</h2>
-    <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">💻<i> Junior CSE student</i></p>
+    <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">💻<i> Junior CSE student</i></p> 
     <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">🎓<i> Palestine Technical University – <strong>𝐊𝐚𝐝𝐨𝐨𝐫𝐢𝐞</strong><i/></p>
     <p style="font-family: 'Poppins', sans-serif; font-size: 1.2rem; color: #48036d;">🌱 <i>Striving for excellence and growth in the tech world!</i></p>
 </div><br><br>
